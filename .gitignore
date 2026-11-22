@@ -1,1 +1,8 @@
-
+__pycache__/
+*.pyc
+.venv/
+venv/
+checkpoints/
+tokenizer_out/
+data/hf_corpus.txt
+.DS_Store
